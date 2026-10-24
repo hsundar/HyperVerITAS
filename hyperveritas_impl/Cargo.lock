@@ -613,6 +613,7 @@ dependencies = [
  "plonkish_backend",
  "proc-status",
  "rand_chacha",
+ "rayon",
  "serde",
  "serde_json",
  "subroutines",

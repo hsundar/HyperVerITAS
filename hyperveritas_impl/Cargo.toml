@@ -24,3 +24,4 @@ rand_chacha = "*"
 proc-status = {version = "*"}
 itertools = {version = "*"}
 subtle = "2.6.1"
+rayon = "1"
